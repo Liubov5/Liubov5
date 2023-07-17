@@ -1,6 +1,6 @@
 ### Hi there 👋, Liubov Iakovleva
 #### I am beginner frontend developer
-![I am beginner frontend developer](https://disk.yandex.ru/i/DmoyKt-tGJCbcg)
+![I am beginner frontend developer](banner for github.png)
 
 I am from Yakutia (Russia). I am learning ReactJS, Redux-React.  
 
