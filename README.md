@@ -1,10 +1,8 @@
 ### Hi there 👋 I am Liubov Iakovleva
-#### I am beginner frontend developer. Looking for paid internship. I am from Yakutia (Russia). I am learning ReactJS, Redux-React.  
+#### I am beginner passionate frontend developer from Yakutia. Looking for paid internship. I am learning ReactJS, Redux-React.  
 <img src="banner for github.png" alt="Alt text" title="Optional title">
 
 <h3>My main Skills: REACT / JS / HTML / CSS/PHP </h3>
-
-<h3 align="center">A passionate frontend developer from Yakutia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liubov5&label=Profile%20views&color=0e75b6&style=flat" alt="liubov5" /> </p>
 
