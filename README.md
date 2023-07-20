@@ -4,7 +4,7 @@
 
 I am from Yakutia (Russia). I am learning ReactJS, Redux-React.  
 
-Skills: REACT / JS / HTML / CSS/PHP
+<h1>My main Skills: REACT / JS / HTML / CSS/PHP </h1>
 
 - 🔭 I’m currently working on this page. 
 
