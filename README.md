@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liubov5" alt="liubov5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/love_yalll5" target="blank"><img src="https://img.shields.io/twitter/follow/love_yalll5?logo=twitter&style=for-the-badge" alt="love_yalll5" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/love_yalll5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="love_yalll5" height="30" width="40" /></a>
