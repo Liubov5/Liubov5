@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS/PHP
 - 🔭 I’m currently working on this page. 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Yakutia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liubov5&label=Profile%20views&color=0e75b6&style=flat" alt="liubov5" /> </p>
 
