@@ -1,4 +1,4 @@
-### Hi there 👋, Liubov Iakovleva
+### Hi there 👋 I am Liubov Iakovleva
 #### I am beginner frontend developer. Looking for paid internship. I am from Yakutia (Russia). I am learning ReactJS, Redux-React.  
 <img src="banner for github.png" alt="Alt text" title="Optional title">
 
