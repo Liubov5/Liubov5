@@ -6,9 +6,6 @@ I am from Yakutia (Russia). I am learning ReactJS, Redux-React.
 
 <h1>My main Skills: REACT / JS / HTML / CSS/PHP </h1>
 
-- 🔭 I’m currently working on this page. 
-
-
 <h3 align="center">A passionate frontend developer from Yakutia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liubov5&label=Profile%20views&color=0e75b6&style=flat" alt="liubov5" /> </p>
