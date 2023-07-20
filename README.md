@@ -2,7 +2,7 @@
 #### I am beginner frontend developer. Looking for paid internship. I am from Yakutia (Russia). I am learning ReactJS, Redux-React.  
 <img src="banner for github.png" alt="Alt text" title="Optional title">
 
-<h1>My main Skills: REACT / JS / HTML / CSS/PHP </h1>
+<h5>My main Skills: REACT / JS / HTML / CSS/PHP </h5>
 
 <h3 align="center">A passionate frontend developer from Yakutia</h3>
 
