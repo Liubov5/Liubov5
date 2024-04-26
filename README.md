@@ -1,7 +1,7 @@
 <img src="banner for github.png" alt="Alt text" title="Optional title">
 
 ### Hi there 👋 I am Liubov Iakovleva
-#### I am beginner passionate frontend developer from Yakutia. Looking for paid internship. I am learning ReactJS, Redux-React.  
+#### I am beginner passionate frontend developer from Krasnodar. Looking for paid internship. I am learning ReactJS, Redux-React.  
 
 
 <h3>My main Skills: REACT / JS / HTML / CSS/PHP </h3>
