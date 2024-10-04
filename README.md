@@ -12,9 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/love_yalll5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="love_yalll5" height="30" width="40" /></a>
-<a href="https://instagram.com/liubov.yalll7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liubov.yalll7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/liubov7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="liubov7" height="30" width="40" /></a>
+  Telegram: @Liubov_Iakovleva
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
