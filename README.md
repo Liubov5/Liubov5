@@ -2,7 +2,7 @@
 #### I am passionate frontend developer from Krasnodar/Yakutia. Looking for job. I am focus on ReactJS, Redux-React-Toolkit, React-Route, Typescript, Next.js.  
 
 
-<h3>My main Skills: REACT / JS / Typescript/ Next.js/ HTML / CSS  </h3>
+<h3>My main skills: REACT / JS / Typescript / Next.js / HTML / CSS  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liubov5&label=Profile%20views&color=0e75b6&style=flat" alt="liubov5" /> </p>
 
