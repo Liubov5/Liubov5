@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Liubov Iakovleva
-#### I am passionate frontend developer from Krasnodar/Yakutia. Looking for job. I am focus on ReactJS, Redux-React-Toolkit, React-Route, Typescript, Next.js.  
+#### I am passionate frontend developer from Krasnodar/Yakutia. Looking for a job. I am focus on ReactJS, Redux-React-Toolkit, React-Route, Typescript, Next.js.  
 
 
 <h3>My main skills: React / Redux-toolkit / Javascript / Typescript / Mobx / Next.js / HTML / CSS  </h3>
